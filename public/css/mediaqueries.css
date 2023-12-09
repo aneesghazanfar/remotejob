@@ -1,0 +1,103 @@
+@media screen and (max-width: 320px) {
+
+    .signup-width {
+      max-width: 100%;
+  
+      padding: 0;
+    }
+  
+    .inputs {
+      max-width: 80%;
+      margin: auto;
+    }
+  
+    .signup-button {
+  
+      font-size: 18px;
+    }
+  
+    .signup-bg-image {
+  
+    }
+    .sign-in-link {
+     margin-bottom: 0;
+    }
+    .login-with-google{
+      padding: 11px 0px;
+    }
+  }
+  @media  (min-width: 320px) and (max-width: 768px) {
+  
+    .signup-width {
+      max-width: 100%;
+  
+      padding: 9px 8px;
+    }
+  
+    .inputs {
+      max-width: 75%;
+      margin: auto;
+    }
+  
+    .signup-button {
+  
+      font-size: 18px;
+    }
+  
+    .signup-bg-image {
+  
+    }
+    .sign-in-link {
+     margin-bottom: 0;
+    }
+  }
+  @media  (min-width: 768px) and (max-width: 1024px) {
+  
+    .signup-width {
+      max-width: 55%;
+  
+      padding: 7px 8px;
+    }
+  
+    .inputs {
+      max-width: 70%;
+      margin: auto;
+    }
+  
+    .signup-button {
+  
+      font-size: 18px;
+    }
+  
+    .signup-bg-image {
+  
+    }
+    .sign-in-link {
+     margin-bottom: 0;
+    }
+  }
+  @media  (min-width: 1024px) and (max-width: 1440px) {
+  
+    .signup-width {
+      max-width: 45%;
+  
+      padding: 7px 8px;
+    }
+  
+    .inputs {
+      max-width: 70%;
+      margin: auto;
+    }
+  
+    .signup-button {
+  
+      font-size: 18px;
+    }
+  
+    .signup-bg-image {
+  
+    }
+    .sign-in-link {
+     margin-bottom: 0;
+    }
+  }
